@@ -11,3 +11,25 @@ img
     height: auto;
 
 }
+
+header
+{
+
+}
+
+
+footer
+{
+    background-color: lightgray;
+    padding-top:20px;
+    pading-bottom:20px;
+    
+
+}
+
+h1
+{
+    size: 100px;
+    color:white;
+    background-color: lightblue;
+}
