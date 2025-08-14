@@ -22,14 +22,15 @@ footer
 {
     background-color: lightgray;
     padding-top:20px;
-    pading-bottom:20px;
+    padding-bottom:20px;
+    text-align: right;
     
 
 }
 
 h1
 {
-    size: 100px;
-    color:white;
+    size: xl-large;
+    color: whitesmoke;
     background-color: lightblue;
 }
