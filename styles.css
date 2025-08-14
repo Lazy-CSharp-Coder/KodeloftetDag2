@@ -12,25 +12,27 @@ img
 
 }
 
-header
-{
-
-}
-
 
 footer
 {
-    background-color: lightgray;
+    background-color: lightblue;
     padding-top:20px;
     padding-bottom:20px;
-    text-align: right;
+
+    text-align: left;
     
 
 }
 
 h1
 {
-    size: xl-large;
+    font-size: 40px;
     color: whitesmoke;
     background-color: lightblue;
+}
+
+h3
+{
+    font-size: 20px;
+   
 }
