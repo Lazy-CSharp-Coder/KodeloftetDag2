@@ -14,7 +14,7 @@ img
 #logo
 {
    float:left;
-   padding-top:10px;
+   padding-top:25px;
 }
 footer
 {
@@ -27,7 +27,16 @@ footer
 header
 {
     padding-left:10px;
+    width:100%;
+    position:fixed;
+    z-index:10;
+    background-color: white;
 
+}
+
+main
+{
+    padding-top:50px;
 }
 h1
 {
