@@ -1,12 +1,19 @@
-.logo
+.logofontene
 {
     height: 32px;
     width: 32px;
 }
+
+#kodeloftlogo
+{
+   float:left;
+   padding-top:25px;
+}
+
 .logokodeloft
 {
     height:62px;
-    width:62px;
+    width:auto;
 
 }
 img
