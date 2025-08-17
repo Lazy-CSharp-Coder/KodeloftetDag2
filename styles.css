@@ -6,8 +6,7 @@
 
 #kodeloftlogo
 {
-   float:left;
-   padding-top:25px;
+
 }
 
 .logokodeloft
@@ -16,6 +15,13 @@
     width:auto;
 
 }
+
+#kodeloftmeny
+{
+    padding-top:20px;
+    padding-left:0px;
+}
+
 img
 {
     width: 320px;
@@ -35,13 +41,11 @@ footer
     padding-bottom:20px;
     padding-left:15px;
     text-align: left;
-    /*width:100%;
-    position: fixed;
-    z-index:10;*/
 }
+
 header
 {
-    padding-left:10px;
+    padding-1left:10px;
     width:100%;
     position:fixed;
     z-index:10;
@@ -52,6 +56,8 @@ header
 main
 {
     padding-top:50px;
+    position: relative;
+    z-index:9;
 }
 h1
 {
@@ -71,3 +77,5 @@ nav
     padding-left:20px;
     
 }
+
+
