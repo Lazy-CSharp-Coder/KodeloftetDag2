@@ -1,35 +1,14 @@
-.logofontene
+/* Hovedelementer */
+
+header
 {
-    height: 32px;
-    width: 32px;
+    
+    width:100%;
+    position:fixed;
+    z-index:10;
+    background-color: white;
 }
 
-
-.logokodeloft
-{
-    height:62px;
-    width:auto;
-
-}
-
-#kodeloftmeny
-{
-    padding-top:20px;
-    padding-left:0px;
-}
-
-img
-{
-    width: 320px;
-    height: auto;
-
-}
-
-#logo
-{
-   float:left;
-   padding-top:25px;
-}
 footer
 {
     background-color: lightblue;
@@ -39,14 +18,10 @@ footer
     text-align: left;
 }
 
-header
+nav
 {
-    padding-left:10px;
-    width:100%;
-    position:fixed;
-    z-index:10;
-    background-color: white;
-
+    padding-left:20px;
+    
 }
 
 main
@@ -55,6 +30,7 @@ main
     position: relative;
     z-index:9;
 }
+
 h1
 {
     font-size: 40px;
@@ -68,10 +44,45 @@ h3
    
 }
 
-nav
+/* image elements */
+
+.logofontene
 {
-    padding-left:20px;
-    
+    height: 32px;
+    width: 32px;
+    padding-top:25px;
+    float:left;
 }
+
+
+.logokodeloft
+{
+    height:62px;
+    width:auto;
+
+}
+
+img
+{
+    width: 320px;
+    height: auto;
+
+}
+
+/* end image elements */
+
+#kodeloftmeny
+{
+    padding-top:20px;
+    padding-left:0px;
+}
+
+/* div id - not nessesary - gjorde det samme i classen til logoen
+#logo
+{
+   float:left;
+   padding-top:25px;
+}
+*/
 
 
